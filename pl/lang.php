@@ -1,0 +1,22 @@
+<?php
+$lang['meta_0'] = 'pl';
+$lang['meta_1'] = 'Home - TravelCircle';
+$lang['meta_2'] = 'Circles - TravelCircle';
+$lang['meta_3'] = 'Locations - TravelCircle';
+$lang['meta_4'] = 'Plans - TravelCircle';
+$lang['meta_5'] = 'Settings - TravelCircle';
+$lang['meta_6'] = 'TravelCircle - Save and plan journeys';
+$lang['meta_7'] = 'TravelCircle is your new journeys planner and locations saver. Create a circle and add your friends to plan your trip together and share best locations.';
+$lang['meta_8'] = 'Login - TravelCircle';
+$lang['meta_9'] = 'Register - TravelCircle';
+$lang['meta_10'] = 'PL';
+$lang['meta_11'] = 'Overview - TravelCircle';
+$lang['meta_12'] = 'Features - TravelCircle';
+$lang['meta_13'] = 'Guide - Invite to circles - TravelCircle';
+$lang['meta_14'] = 'Guide - Save locations - TravelCircle';
+$lang['meta_15'] = 'Guide - Create plans - TravelCircle';
+$lang['meta_16'] = '';
+$lang['meta_17'] = '';
+$lang['meta_18'] = '';
+$lang['meta_19'] = '';
+$lang['meta_20'] = '';
